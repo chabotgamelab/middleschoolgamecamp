@@ -10,4 +10,5 @@ https://blurymind.github.io/tilemap-editor/
 
 #### Sound
 https://github.com/DeerTears/GB-Studio-Community-Assets
+https://github.com/chrismaltby/gb-studio/issues/320
 
