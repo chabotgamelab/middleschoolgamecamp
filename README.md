@@ -17,3 +17,5 @@ https://ajbooker.co/midi2sfx
 
 #### Pixels
 https://apps.lospec.com/pixel-editor
+
+Font: small fonts
