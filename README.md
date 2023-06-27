@@ -1,19 +1,14 @@
 #Welcome to the Game Design Camp Resources
 
 ### GB Studio Resources
-#### Assets
+#### Sprites and Characters
 https://itch.io/c/3407019/gb-studio-assets
 
 #### Tilemap editor
-https://blurymind.github.io/tilemap-editor/
-
+https://blurymind.github.io/tilemap-editor/?imgur=DAVpRAH
 
 #### Sound
-https://github.com/DeerTears/GB-Studio-Community-Assets
-https://github.com/chrismaltby/gb-studio/issues/320
-
-https://ajbooker.co/midi2sfx
-
+https://itch.io/c/3407019/gb-studio-assets
 
 #### Pixels
 https://apps.lospec.com/pixel-editor
